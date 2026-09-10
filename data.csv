@@ -1,0 +1,301 @@
+ID,Name,Age,City,Department,Course,Python,SQL,JavaScript,Product,Quantity,Price
+1,Amit,25,Pune,IT,BCA,63,67,64,Laptop,4,437
+2,Priya,32,Mumbai,HR,BSc CS,76,84,83,Mouse,7,574
+3,Rahul,21,Nashik,Sales,BTech,89,50,46,Keyboard,10,711
+4,Sneha,28,Nagpur,Finance,BSc IT,51,67,65,Monitor,13,848
+5,Vikas,35,Aurangabad,Marketing,MCA,64,84,84,Headphones,16,985
+6,Neha,24,Kolhapur,Operations,BCA,77,50,47,Webcam,19,1122
+7,Rohan,31,Satara,IT,BSc CS,90,67,66,SSD,2,1259
+8,Pooja,20,Solapur,HR,BTech,52,84,85,RAM,5,1396
+9,Akash,27,Thane,Sales,BSc IT,65,50,48,Printer,8,1533
+10,Kiran,34,Nanded,Finance,MCA,78,67,67,USB Cable,11,1670
+11,Raj,23,Pune,Marketing,BCA,91,84,86,Laptop,14,1807
+12,Anjali,30,Mumbai,Operations,BSc CS,53,50,49,Mouse,17,1944
+13,Suresh,19,Nashik,IT,BTech,66,67,68,Keyboard,20,2081
+14,Meena,26,Nagpur,HR,BSc IT,79,84,87,Monitor,3,2218
+15,Arjun,33,Aurangabad,Sales,MCA,92,50,50,Headphones,6,2355
+16,Kavya,22,Kolhapur,Finance,BCA,54,67,69,Webcam,9,2492
+17,Nitin,29,Satara,Marketing,BSc CS,67,84,88,SSD,12,2629
+18,Riya,18,Solapur,Operations,BTech,80,50,51,RAM,15,2766
+19,Manish,25,Thane,IT,BSc IT,93,67,70,Printer,18,2903
+20,Simran,32,Nanded,HR,MCA,55,84,89,USB Cable,1,3040
+21,Amit,21,Pune,Sales,BCA,68,50,52,Laptop,4,3177
+22,Priya,28,Mumbai,Finance,BSc CS,81,67,71,Mouse,7,3314
+23,Rahul,35,Nashik,Marketing,BTech,94,84,90,Keyboard,10,3451
+24,Sneha,24,Nagpur,Operations,BSc IT,56,50,53,Monitor,13,3588
+25,Vikas,31,Aurangabad,IT,MCA,69,67,72,Headphones,16,3725
+26,Neha,20,Kolhapur,HR,BCA,82,84,91,Webcam,19,3862
+27,Rohan,27,Satara,Sales,BSc CS,95,50,54,SSD,2,3999
+28,Pooja,34,Solapur,Finance,BTech,57,67,73,RAM,5,4136
+29,Akash,23,Thane,Marketing,BSc IT,70,84,92,Printer,8,4273
+30,Kiran,30,Nanded,Operations,MCA,83,50,55,USB Cable,11,4410
+31,Raj,19,Pune,IT,BCA,96,67,74,Laptop,14,4547
+32,Anjali,26,Mumbai,HR,BSc CS,58,84,93,Mouse,17,4684
+33,Suresh,33,Nashik,Sales,BTech,71,50,56,Keyboard,20,4821
+34,Meena,22,Nagpur,Finance,BSc IT,84,67,75,Monitor,3,4958
+35,Arjun,29,Aurangabad,Marketing,MCA,97,84,94,Headphones,6,5095
+36,Kavya,18,Kolhapur,Operations,BCA,59,50,57,Webcam,9,5232
+37,Nitin,25,Satara,IT,BSc CS,72,67,76,SSD,12,5369
+38,Riya,32,Solapur,HR,BTech,85,84,95,RAM,15,5506
+39,Manish,21,Thane,Sales,BSc IT,98,50,58,Printer,18,5643
+40,Simran,28,Nanded,Finance,MCA,60,67,77,USB Cable,1,5780
+41,Amit,35,Pune,Marketing,BCA,73,84,96,Laptop,4,5917
+42,Priya,24,Mumbai,Operations,BSc CS,86,50,59,Mouse,7,6054
+43,Rahul,31,Nashik,IT,BTech,99,67,78,Keyboard,10,6191
+44,Sneha,20,Nagpur,HR,BSc IT,61,84,97,Monitor,13,6328
+45,Vikas,27,Aurangabad,Sales,MCA,74,50,60,Headphones,16,6465
+46,Neha,34,Kolhapur,Finance,BCA,87,67,79,Webcam,19,6602
+47,Rohan,23,Satara,Marketing,BSc CS,100,84,98,SSD,2,6739
+48,Pooja,30,Solapur,Operations,BTech,62,50,61,RAM,5,6876
+49,Akash,19,Thane,IT,BSc IT,75,67,80,Printer,8,7013
+50,Kiran,26,Nanded,HR,MCA,88,84,99,USB Cable,11,7150
+51,Raj,33,Pune,Sales,BCA,50,50,62,Laptop,14,7287
+52,Anjali,22,Mumbai,Finance,BSc CS,63,67,81,Mouse,17,7424
+53,Suresh,29,Nashik,Marketing,BTech,76,84,100,Keyboard,20,7561
+54,Meena,18,Nagpur,Operations,BSc IT,89,50,63,Monitor,3,7698
+55,Arjun,25,Aurangabad,IT,MCA,51,67,82,Headphones,6,7835
+56,Kavya,32,Kolhapur,HR,BCA,64,84,45,Webcam,9,7972
+57,Nitin,21,Satara,Sales,BSc CS,77,50,64,SSD,12,8109
+58,Riya,28,Solapur,Finance,BTech,90,67,83,RAM,15,8246
+59,Manish,35,Thane,Marketing,BSc IT,52,84,46,Printer,18,8383
+60,Simran,24,Nanded,Operations,MCA,65,50,65,USB Cable,1,8520
+61,Amit,31,Pune,IT,BCA,78,67,84,Laptop,4,8657
+62,Priya,20,Mumbai,HR,BSc CS,91,84,47,Mouse,7,8794
+63,Rahul,27,Nashik,Sales,BTech,53,50,66,Keyboard,10,8931
+64,Sneha,34,Nagpur,Finance,BSc IT,66,67,85,Monitor,13,9068
+65,Vikas,23,Aurangabad,Marketing,MCA,79,84,48,Headphones,16,9205
+66,Neha,30,Kolhapur,Operations,BCA,92,50,67,Webcam,19,9342
+67,Rohan,19,Satara,IT,BSc CS,54,67,86,SSD,2,9479
+68,Pooja,26,Solapur,HR,BTech,67,84,49,RAM,5,9616
+69,Akash,33,Thane,Sales,BSc IT,80,50,68,Printer,8,9753
+70,Kiran,22,Nanded,Finance,MCA,93,67,87,USB Cable,11,9890
+71,Raj,29,Pune,Marketing,BCA,55,84,50,Laptop,14,10027
+72,Anjali,18,Mumbai,Operations,BSc CS,68,50,69,Mouse,17,10164
+73,Suresh,25,Nashik,IT,BTech,81,67,88,Keyboard,20,10301
+74,Meena,32,Nagpur,HR,BSc IT,94,84,51,Monitor,3,10438
+75,Arjun,21,Aurangabad,Sales,MCA,56,50,70,Headphones,6,10575
+76,Kavya,28,Kolhapur,Finance,BCA,69,67,89,Webcam,9,10712
+77,Nitin,35,Satara,Marketing,BSc CS,82,84,52,SSD,12,10849
+78,Riya,24,Solapur,Operations,BTech,95,50,71,RAM,15,10986
+79,Manish,31,Thane,IT,BSc IT,57,67,90,Printer,18,11123
+80,Simran,20,Nanded,HR,MCA,70,84,53,USB Cable,1,11260
+81,Amit,27,Pune,Sales,BCA,83,50,72,Laptop,4,11397
+82,Priya,34,Mumbai,Finance,BSc CS,96,67,91,Mouse,7,11534
+83,Rahul,23,Nashik,Marketing,BTech,58,84,54,Keyboard,10,11671
+84,Sneha,30,Nagpur,Operations,BSc IT,71,50,73,Monitor,13,11808
+85,Vikas,19,Aurangabad,IT,MCA,84,67,92,Headphones,16,11945
+86,Neha,26,Kolhapur,HR,BCA,97,84,55,Webcam,19,12082
+87,Rohan,33,Satara,Sales,BSc CS,59,50,74,SSD,2,12219
+88,Pooja,22,Solapur,Finance,BTech,72,67,93,RAM,5,12356
+89,Akash,29,Thane,Marketing,BSc IT,85,84,56,Printer,8,12493
+90,Kiran,18,Nanded,Operations,MCA,98,50,75,USB Cable,11,12630
+91,Raj,25,Pune,IT,BCA,60,67,94,Laptop,14,12767
+92,Anjali,32,Mumbai,HR,BSc CS,73,84,57,Mouse,17,12904
+93,Suresh,21,Nashik,Sales,BTech,86,50,76,Keyboard,20,13041
+94,Meena,28,Nagpur,Finance,BSc IT,99,67,95,Monitor,3,13178
+95,Arjun,35,Aurangabad,Marketing,MCA,61,84,58,Headphones,6,13315
+96,Kavya,24,Kolhapur,Operations,BCA,74,50,77,Webcam,9,13452
+97,Nitin,31,Satara,IT,BSc CS,87,67,96,SSD,12,13589
+98,Riya,20,Solapur,HR,BTech,100,84,59,RAM,15,13726
+99,Manish,27,Thane,Sales,BSc IT,62,50,78,Printer,18,13863
+100,Simran,34,Nanded,Finance,MCA,75,67,97,USB Cable,1,14000
+101,Amit,23,Pune,Marketing,BCA,88,84,60,Laptop,4,14137
+102,Priya,30,Mumbai,Operations,BSc CS,50,50,79,Mouse,7,14274
+103,Rahul,19,Nashik,IT,BTech,63,67,98,Keyboard,10,14411
+104,Sneha,26,Nagpur,HR,BSc IT,76,84,61,Monitor,13,14548
+105,Vikas,33,Aurangabad,Sales,MCA,89,50,80,Headphones,16,14685
+106,Neha,22,Kolhapur,Finance,BCA,51,67,99,Webcam,19,14822
+107,Rohan,29,Satara,Marketing,BSc CS,64,84,62,SSD,2,14959
+108,Pooja,18,Solapur,Operations,BTech,77,50,81,RAM,5,15096
+109,Akash,25,Thane,IT,BSc IT,90,67,100,Printer,8,15233
+110,Kiran,32,Nanded,HR,MCA,52,84,63,USB Cable,11,15370
+111,Raj,21,Pune,Sales,BCA,65,50,82,Laptop,14,15507
+112,Anjali,28,Mumbai,Finance,BSc CS,78,67,45,Mouse,17,15644
+113,Suresh,35,Nashik,Marketing,BTech,91,84,64,Keyboard,20,15781
+114,Meena,24,Nagpur,Operations,BSc IT,53,50,83,Monitor,3,15918
+115,Arjun,31,Aurangabad,IT,MCA,66,67,46,Headphones,6,16055
+116,Kavya,20,Kolhapur,HR,BCA,79,84,65,Webcam,9,16192
+117,Nitin,27,Satara,Sales,BSc CS,92,50,84,SSD,12,16329
+118,Riya,34,Solapur,Finance,BTech,54,67,47,RAM,15,16466
+119,Manish,23,Thane,Marketing,BSc IT,67,84,66,Printer,18,16603
+120,Simran,30,Nanded,Operations,MCA,80,50,85,USB Cable,1,16740
+121,Amit,19,Pune,IT,BCA,93,67,48,Laptop,4,16877
+122,Priya,26,Mumbai,HR,BSc CS,55,84,67,Mouse,7,17014
+123,Rahul,33,Nashik,Sales,BTech,68,50,86,Keyboard,10,17151
+124,Sneha,22,Nagpur,Finance,BSc IT,81,67,49,Monitor,13,17288
+125,Vikas,29,Aurangabad,Marketing,MCA,94,84,68,Headphones,16,17425
+126,Neha,18,Kolhapur,Operations,BCA,56,50,87,Webcam,19,17562
+127,Rohan,25,Satara,IT,BSc CS,69,67,50,SSD,2,17699
+128,Pooja,32,Solapur,HR,BTech,82,84,69,RAM,5,17836
+129,Akash,21,Thane,Sales,BSc IT,95,50,88,Printer,8,17973
+130,Kiran,28,Nanded,Finance,MCA,57,67,51,USB Cable,11,18110
+131,Raj,35,Pune,Marketing,BCA,70,84,70,Laptop,14,18247
+132,Anjali,24,Mumbai,Operations,BSc CS,83,50,89,Mouse,17,18384
+133,Suresh,31,Nashik,IT,BTech,96,67,52,Keyboard,20,18521
+134,Meena,20,Nagpur,HR,BSc IT,58,84,71,Monitor,3,18658
+135,Arjun,27,Aurangabad,Sales,MCA,71,50,90,Headphones,6,18795
+136,Kavya,34,Kolhapur,Finance,BCA,84,67,53,Webcam,9,18932
+137,Nitin,23,Satara,Marketing,BSc CS,97,84,72,SSD,12,19069
+138,Riya,30,Solapur,Operations,BTech,59,50,91,RAM,15,19206
+139,Manish,19,Thane,IT,BSc IT,72,67,54,Printer,18,19343
+140,Simran,26,Nanded,HR,MCA,85,84,73,USB Cable,1,19480
+141,Amit,33,Pune,Sales,BCA,98,50,92,Laptop,4,19617
+142,Priya,22,Mumbai,Finance,BSc CS,60,67,55,Mouse,7,19754
+143,Rahul,29,Nashik,Marketing,BTech,73,84,74,Keyboard,10,19891
+144,Sneha,18,Nagpur,Operations,BSc IT,86,50,93,Monitor,13,20028
+145,Vikas,25,Aurangabad,IT,MCA,99,67,56,Headphones,16,20165
+146,Neha,32,Kolhapur,HR,BCA,61,84,75,Webcam,19,20302
+147,Rohan,21,Satara,Sales,BSc CS,74,50,94,SSD,2,20439
+148,Pooja,28,Solapur,Finance,BTech,87,67,57,RAM,5,20576
+149,Akash,35,Thane,Marketing,BSc IT,100,84,76,Printer,8,20713
+150,Kiran,24,Nanded,Operations,MCA,62,50,95,USB Cable,11,20850
+151,Raj,31,Pune,IT,BCA,75,67,58,Laptop,14,20987
+152,Anjali,20,Mumbai,HR,BSc CS,88,84,77,Mouse,17,21124
+153,Suresh,27,Nashik,Sales,BTech,50,50,96,Keyboard,20,21261
+154,Meena,34,Nagpur,Finance,BSc IT,63,67,59,Monitor,3,21398
+155,Arjun,23,Aurangabad,Marketing,MCA,76,84,78,Headphones,6,21535
+156,Kavya,30,Kolhapur,Operations,BCA,89,50,97,Webcam,9,21672
+157,Nitin,19,Satara,IT,BSc CS,51,67,60,SSD,12,21809
+158,Riya,26,Solapur,HR,BTech,64,84,79,RAM,15,21946
+159,Manish,33,Thane,Sales,BSc IT,77,50,98,Printer,18,22083
+160,Simran,22,Nanded,Finance,MCA,90,67,61,USB Cable,1,22220
+161,Amit,29,Pune,Marketing,BCA,52,84,80,Laptop,4,22357
+162,Priya,18,Mumbai,Operations,BSc CS,65,50,99,Mouse,7,22494
+163,Rahul,25,Nashik,IT,BTech,78,67,62,Keyboard,10,22631
+164,Sneha,32,Nagpur,HR,BSc IT,91,84,81,Monitor,13,22768
+165,Vikas,21,Aurangabad,Sales,MCA,53,50,100,Headphones,16,22905
+166,Neha,28,Kolhapur,Finance,BCA,66,67,63,Webcam,19,23042
+167,Rohan,35,Satara,Marketing,BSc CS,79,84,82,SSD,2,23179
+168,Pooja,24,Solapur,Operations,BTech,92,50,45,RAM,5,23316
+169,Akash,31,Thane,IT,BSc IT,54,67,64,Printer,8,23453
+170,Kiran,20,Nanded,HR,MCA,67,84,83,USB Cable,11,23590
+171,Raj,27,Pune,Sales,BCA,80,50,46,Laptop,14,23727
+172,Anjali,34,Mumbai,Finance,BSc CS,93,67,65,Mouse,17,23864
+173,Suresh,23,Nashik,Marketing,BTech,55,84,84,Keyboard,20,24001
+174,Meena,30,Nagpur,Operations,BSc IT,68,50,47,Monitor,3,24138
+175,Arjun,19,Aurangabad,IT,MCA,81,67,66,Headphones,6,24275
+176,Kavya,26,Kolhapur,HR,BCA,94,84,85,Webcam,9,24412
+177,Nitin,33,Satara,Sales,BSc CS,56,50,48,SSD,12,24549
+178,Riya,22,Solapur,Finance,BTech,69,67,67,RAM,15,24686
+179,Manish,29,Thane,Marketing,BSc IT,82,84,86,Printer,18,24823
+180,Simran,18,Nanded,Operations,MCA,95,50,49,USB Cable,1,24960
+181,Amit,25,Pune,IT,BCA,57,67,68,Laptop,4,25097
+182,Priya,32,Mumbai,HR,BSc CS,70,84,87,Mouse,7,25234
+183,Rahul,21,Nashik,Sales,BTech,83,50,50,Keyboard,10,25371
+184,Sneha,28,Nagpur,Finance,BSc IT,96,67,69,Monitor,13,25508
+185,Vikas,35,Aurangabad,Marketing,MCA,58,84,88,Headphones,16,25645
+186,Neha,24,Kolhapur,Operations,BCA,71,50,51,Webcam,19,25782
+187,Rohan,31,Satara,IT,BSc CS,84,67,70,SSD,2,25919
+188,Pooja,20,Solapur,HR,BTech,97,84,89,RAM,5,26056
+189,Akash,27,Thane,Sales,BSc IT,59,50,52,Printer,8,26193
+190,Kiran,34,Nanded,Finance,MCA,72,67,71,USB Cable,11,26330
+191,Raj,23,Pune,Marketing,BCA,85,84,90,Laptop,14,26467
+192,Anjali,30,Mumbai,Operations,BSc CS,98,50,53,Mouse,17,26604
+193,Suresh,19,Nashik,IT,BTech,60,67,72,Keyboard,20,26741
+194,Meena,26,Nagpur,HR,BSc IT,73,84,91,Monitor,3,26878
+195,Arjun,33,Aurangabad,Sales,MCA,86,50,54,Headphones,6,27015
+196,Kavya,22,Kolhapur,Finance,BCA,99,67,73,Webcam,9,27152
+197,Nitin,29,Satara,Marketing,BSc CS,61,84,92,SSD,12,27289
+198,Riya,18,Solapur,Operations,BTech,74,50,55,RAM,15,27426
+199,Manish,25,Thane,IT,BSc IT,87,67,74,Printer,18,27563
+200,Simran,32,Nanded,HR,MCA,100,84,93,USB Cable,1,27700
+201,Amit,21,Pune,Sales,BCA,62,50,56,Laptop,4,27837
+202,Priya,28,Mumbai,Finance,BSc CS,75,67,75,Mouse,7,27974
+203,Rahul,35,Nashik,Marketing,BTech,88,84,94,Keyboard,10,28111
+204,Sneha,24,Nagpur,Operations,BSc IT,50,50,57,Monitor,13,28248
+205,Vikas,31,Aurangabad,IT,MCA,63,67,76,Headphones,16,28385
+206,Neha,20,Kolhapur,HR,BCA,76,84,95,Webcam,19,28522
+207,Rohan,27,Satara,Sales,BSc CS,89,50,58,SSD,2,28659
+208,Pooja,34,Solapur,Finance,BTech,51,67,77,RAM,5,28796
+209,Akash,23,Thane,Marketing,BSc IT,64,84,96,Printer,8,28933
+210,Kiran,30,Nanded,Operations,MCA,77,50,59,USB Cable,11,29070
+211,Raj,19,Pune,IT,BCA,90,67,78,Laptop,14,29207
+212,Anjali,26,Mumbai,HR,BSc CS,52,84,97,Mouse,17,29344
+213,Suresh,33,Nashik,Sales,BTech,65,50,60,Keyboard,20,29481
+214,Meena,22,Nagpur,Finance,BSc IT,78,67,79,Monitor,3,29618
+215,Arjun,29,Aurangabad,Marketing,MCA,91,84,98,Headphones,6,29755
+216,Kavya,18,Kolhapur,Operations,BCA,53,50,61,Webcam,9,29892
+217,Nitin,25,Satara,IT,BSc CS,66,67,80,SSD,12,30029
+218,Riya,32,Solapur,HR,BTech,79,84,99,RAM,15,30166
+219,Manish,21,Thane,Sales,BSc IT,92,50,62,Printer,18,30303
+220,Simran,28,Nanded,Finance,MCA,54,67,81,USB Cable,1,30440
+221,Amit,35,Pune,Marketing,BCA,67,84,100,Laptop,4,30577
+222,Priya,24,Mumbai,Operations,BSc CS,80,50,63,Mouse,7,30714
+223,Rahul,31,Nashik,IT,BTech,93,67,82,Keyboard,10,30851
+224,Sneha,20,Nagpur,HR,BSc IT,55,84,45,Monitor,13,30988
+225,Vikas,27,Aurangabad,Sales,MCA,68,50,64,Headphones,16,31125
+226,Neha,34,Kolhapur,Finance,BCA,81,67,83,Webcam,19,31262
+227,Rohan,23,Satara,Marketing,BSc CS,94,84,46,SSD,2,31399
+228,Pooja,30,Solapur,Operations,BTech,56,50,65,RAM,5,31536
+229,Akash,19,Thane,IT,BSc IT,69,67,84,Printer,8,31673
+230,Kiran,26,Nanded,HR,MCA,82,84,47,USB Cable,11,31810
+231,Raj,33,Pune,Sales,BCA,95,50,66,Laptop,14,31947
+232,Anjali,22,Mumbai,Finance,BSc CS,57,67,85,Mouse,17,32084
+233,Suresh,29,Nashik,Marketing,BTech,70,84,48,Keyboard,20,32221
+234,Meena,18,Nagpur,Operations,BSc IT,83,50,67,Monitor,3,32358
+235,Arjun,25,Aurangabad,IT,MCA,96,67,86,Headphones,6,32495
+236,Kavya,32,Kolhapur,HR,BCA,58,84,49,Webcam,9,32632
+237,Nitin,21,Satara,Sales,BSc CS,71,50,68,SSD,12,32769
+238,Riya,28,Solapur,Finance,BTech,84,67,87,RAM,15,32906
+239,Manish,35,Thane,Marketing,BSc IT,97,84,50,Printer,18,33043
+240,Simran,24,Nanded,Operations,MCA,59,50,69,USB Cable,1,33180
+241,Amit,31,Pune,IT,BCA,72,67,88,Laptop,4,33317
+242,Priya,20,Mumbai,HR,BSc CS,85,84,51,Mouse,7,33454
+243,Rahul,27,Nashik,Sales,BTech,98,50,70,Keyboard,10,33591
+244,Sneha,34,Nagpur,Finance,BSc IT,60,67,89,Monitor,13,33728
+245,Vikas,23,Aurangabad,Marketing,MCA,73,84,52,Headphones,16,33865
+246,Neha,30,Kolhapur,Operations,BCA,86,50,71,Webcam,19,34002
+247,Rohan,19,Satara,IT,BSc CS,99,67,90,SSD,2,34139
+248,Pooja,26,Solapur,HR,BTech,61,84,53,RAM,5,34276
+249,Akash,33,Thane,Sales,BSc IT,74,50,72,Printer,8,34413
+250,Kiran,22,Nanded,Finance,MCA,87,67,91,USB Cable,11,34550
+251,Raj,29,Pune,Marketing,BCA,100,84,54,Laptop,14,34687
+252,Anjali,18,Mumbai,Operations,BSc CS,62,50,73,Mouse,17,34824
+253,Suresh,25,Nashik,IT,BTech,75,67,92,Keyboard,20,34961
+254,Meena,32,Nagpur,HR,BSc IT,88,84,55,Monitor,3,35098
+255,Arjun,21,Aurangabad,Sales,MCA,50,50,74,Headphones,6,35235
+256,Kavya,28,Kolhapur,Finance,BCA,63,67,93,Webcam,9,35372
+257,Nitin,35,Satara,Marketing,BSc CS,76,84,56,SSD,12,35509
+258,Riya,24,Solapur,Operations,BTech,89,50,75,RAM,15,35646
+259,Manish,31,Thane,IT,BSc IT,51,67,94,Printer,18,35783
+260,Simran,20,Nanded,HR,MCA,64,84,57,USB Cable,1,35920
+261,Amit,27,Pune,Sales,BCA,77,50,76,Laptop,4,36057
+262,Priya,34,Mumbai,Finance,BSc CS,90,67,95,Mouse,7,36194
+263,Rahul,23,Nashik,Marketing,BTech,52,84,58,Keyboard,10,36331
+264,Sneha,30,Nagpur,Operations,BSc IT,65,50,77,Monitor,13,36468
+265,Vikas,19,Aurangabad,IT,MCA,78,67,96,Headphones,16,36605
+266,Neha,26,Kolhapur,HR,BCA,91,84,59,Webcam,19,36742
+267,Rohan,33,Satara,Sales,BSc CS,53,50,78,SSD,2,36879
+268,Pooja,22,Solapur,Finance,BTech,66,67,97,RAM,5,37016
+269,Akash,29,Thane,Marketing,BSc IT,79,84,60,Printer,8,37153
+270,Kiran,18,Nanded,Operations,MCA,92,50,79,USB Cable,11,37290
+271,Raj,25,Pune,IT,BCA,54,67,98,Laptop,14,37427
+272,Anjali,32,Mumbai,HR,BSc CS,67,84,61,Mouse,17,37564
+273,Suresh,21,Nashik,Sales,BTech,80,50,80,Keyboard,20,37701
+274,Meena,28,Nagpur,Finance,BSc IT,93,67,99,Monitor,3,37838
+275,Arjun,35,Aurangabad,Marketing,MCA,55,84,62,Headphones,6,37975
+276,Kavya,24,Kolhapur,Operations,BCA,68,50,81,Webcam,9,38112
+277,Nitin,31,Satara,IT,BSc CS,81,67,100,SSD,12,38249
+278,Riya,20,Solapur,HR,BTech,94,84,63,RAM,15,38386
+279,Manish,27,Thane,Sales,BSc IT,56,50,82,Printer,18,38523
+280,Simran,34,Nanded,Finance,MCA,69,67,45,USB Cable,1,38660
+281,Amit,23,Pune,Marketing,BCA,82,84,64,Laptop,4,38797
+282,Priya,30,Mumbai,Operations,BSc CS,95,50,83,Mouse,7,38934
+283,Rahul,19,Nashik,IT,BTech,57,67,46,Keyboard,10,39071
+284,Sneha,26,Nagpur,HR,BSc IT,70,84,65,Monitor,13,39208
+285,Vikas,33,Aurangabad,Sales,MCA,83,50,84,Headphones,16,39345
+286,Neha,22,Kolhapur,Finance,BCA,96,67,47,Webcam,19,39482
+287,Rohan,29,Satara,Marketing,BSc CS,58,84,66,SSD,2,39619
+288,Pooja,18,Solapur,Operations,BTech,71,50,85,RAM,5,39756
+289,Akash,25,Thane,IT,BSc IT,84,67,48,Printer,8,39893
+290,Kiran,32,Nanded,HR,MCA,97,84,67,USB Cable,11,40030
+291,Raj,21,Pune,Sales,BCA,59,50,86,Laptop,14,40167
+292,Anjali,28,Mumbai,Finance,BSc CS,72,67,49,Mouse,17,40304
+293,Suresh,35,Nashik,Marketing,BTech,85,84,68,Keyboard,20,40441
+294,Meena,24,Nagpur,Operations,BSc IT,98,50,87,Monitor,3,40578
+295,Arjun,31,Aurangabad,IT,MCA,60,67,50,Headphones,6,40715
+296,Kavya,20,Kolhapur,HR,BCA,73,84,69,Webcam,9,40852
+297,Nitin,27,Satara,Sales,BSc CS,86,50,88,SSD,12,40989
+298,Riya,34,Solapur,Finance,BTech,99,67,51,RAM,15,41126
+299,Manish,23,Thane,Marketing,BSc IT,61,84,70,Printer,18,41263
+300,Simran,30,Nanded,Operations,MCA,74,50,89,USB Cable,1,41400
